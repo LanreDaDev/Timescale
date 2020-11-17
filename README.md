@@ -1,2 +1,2 @@
-# Timescale frontend interview assignment
+# Timescale frontend 
 
